@@ -1,6 +1,4 @@
 -- customer_shopping_analysis.sql
--- Converted from the provided document into a single .sql file.
--- Database/Table assumed: customer_shopping
 
 /* Q1. What is the revenue contribution of each age group? */
 SELECT
